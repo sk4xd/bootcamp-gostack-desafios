@@ -1,4 +1,5 @@
-Desafio 1: Planejando meus estudos
+## Desafio 1: Planejando meus estudos
+
 “Sua única limitação é você mesmo”!
 
 Sobre o desafio
