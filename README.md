@@ -1,2 +1,2 @@
-# bootcamp-gostack-desafios
-Desafios do bootcamp gostack ministrato pela Rockeseat
+## Desafios do GoStack
+Desafios do bootcamp GoStack ministrato pela Rockeseat.
