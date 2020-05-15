@@ -1,5 +1,5 @@
 ## Desafios do GoStack
-Desafios do bootcamp GoStack ministrato pela Rockeseat.
+Desafios do bootcamp GoStack ministrado pela Rockeseat.
 
 Lista:
 
